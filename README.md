@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/radhikaa027](https://github.com/radhikaa027)
 
-- 💬 Ask me about **python, ai/ml**
-
 - 📫 How to reach me **radhikabhati218@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
