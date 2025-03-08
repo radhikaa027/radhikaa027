@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radhika!</h1>
 <h3 align="center">AI/ML enthusiast with robust Python and Java expertise, dedicated to data-driven innovation and solving complex challenges</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/radhikaa027](https://github.com/radhikaa027)
-
 - 📫 How to reach me **radhikabhati218@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
