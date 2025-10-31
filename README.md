@@ -36,7 +36,7 @@
 
 <h3 align="left">🏆 Highlights:</h3>
 
-- 🔬 **Product & Tech Lead** at *ViniBrawn Healthcare Solutions* — led the development of **AlzoWatch**, an IoT-based safety wearable, winning **3 national recognitions**.  
+- 🔬 **Product & Tech Lead Intern** at *ViniBrawn Healthcare Solutions* — led the development of **AlzoWatch**, an IoT-based safety wearable, winning **3 national recognitions** and **Seed grant of Rs. 50,000**.  
 - 🤖 **AI Research Intern at IIT Ropar (Annam.AI Foundation)** — built *KrishiAI*, a large-scale GenAI pipeline that processed **2,100+ Hindi/Punjabi agri videos** into **33K+ knowledge points**.  
 - 📊 **AI/ML Intern at CCS Computers Pvt. Ltd.** — fine-tuned **BERT** for the Govt. of India’s cybercrime complaint system.  
 - 🧠 **Published AI Researcher** — papers at **IEEE ITECIndia 2025** and **Springer ICISS 2025 (Oxford, UK Presentation)**.  
